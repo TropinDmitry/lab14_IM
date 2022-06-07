@@ -1,0 +1,11 @@
+I:\Lab17\lab14_IM\bin\Debug\Lab17.exe.config
+I:\Lab17\lab14_IM\bin\Debug\Lab17.exe
+I:\Lab17\lab14_IM\bin\Debug\Lab17.pdb
+I:\Lab17\lab14_IM\obj\Debug\lab14_IM.csproj.AssemblyReference.cache
+I:\Lab17\lab14_IM\obj\Debug\lab14_IM.csproj.SuggestedBindingRedirects.cache
+I:\Lab17\lab14_IM\obj\Debug\lab14.Form1.resources
+I:\Lab17\lab14_IM\obj\Debug\Lab17.Properties.Resources.resources
+I:\Lab17\lab14_IM\obj\Debug\lab14_IM.csproj.GenerateResource.cache
+I:\Lab17\lab14_IM\obj\Debug\lab14_IM.csproj.CoreCompileInputs.cache
+I:\Lab17\lab14_IM\obj\Debug\Lab17.exe
+I:\Lab17\lab14_IM\obj\Debug\Lab17.pdb
